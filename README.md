@@ -6,9 +6,10 @@ This repo contains the projects, scripts, and datasets I worked on during my 3-m
 
 ## 📂 Internship Projects
 
-* **Project_1_Name:** (e.g., Cleaned a large dataset using Pandas to remove missing values and prepare it for analysis.)
-* **Project_2_Name:** (e.g., Built a basic machine learning model to predict customer trends.)
-* **Project_3_Name:** (e.g., Created visualizations using Matplotlib/Seaborn to show data insights.)
+* **Project1_Name:CocaCola 
+* **Project2_Name:Netfilx 
+* **Project3_Name:Google Playstore
+* **Project4_Name:Customer Satisfaction Prediction
 
 ## 🛠️ Tools & Technologies
 * **Language:** Python
