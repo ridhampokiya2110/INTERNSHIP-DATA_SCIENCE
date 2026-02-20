@@ -6,10 +6,10 @@ This repo contains the projects, scripts, and datasets I worked on during my 3-m
 
 ## 📂 Internship Projects
 
-* Project1_Name:CocaCola 
-* Project2_Name:Netfilx 
-* Project3_Name:Google Playstore
-* Project4_Name:Customer Satisfaction Prediction
+* **Project1_Name**:CocaCola 
+* **Project2_Name**:Netfilx 
+* **Project3_Name**:Google Playstore
+* **Project4_Name**:Customer Satisfaction Prediction
 
 ## 🛠️ Tools & Technologies
 * **Language:** Python
